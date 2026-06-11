@@ -1,4 +1,4 @@
-# G-LOC: Guarded Link Over Combat 🔐
+# G-LOC: Guarded Link Over Combat
 
 > *A custom asymmetric encryption system built from scratch in C++ — no libraries, no shortcuts.*
 
